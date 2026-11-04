@@ -1,0 +1,2 @@
+# GrievanceHUB Root Python Dependencies
+-r GrivHUB/backend/requirements.txt

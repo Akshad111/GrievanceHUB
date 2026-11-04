@@ -1,0 +1,6 @@
+services:
+  grivhub:
+    image: grivhub
+    build:
+      context: .
+      dockerfile: ./Dockerfile
